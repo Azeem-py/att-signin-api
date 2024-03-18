@@ -12,7 +12,8 @@ const corsOptions = {
     'https://att-signin.vercel.app',
     'https://one-note-welcome.vercel.app',
     'https://welcome-at.vercel.app',
-    'https://att-auth.onrender.com'
+    'https://att-auth.onrender.com',
+    'https://welcomeat.vercel.app',
   ],
   credentials: true,
 }
