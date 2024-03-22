@@ -12,7 +12,7 @@ const corsOptions = {
     'https://att-signin.vercel.app',
     'https://one-note-welcome.vercel.app',
     'https://welcome-at.vercel.app',
-    'https://service-koo.vercel.app',
+    'https://serve12bn8483.vercel.app',
     'https://welcomeat.vercel.app',
   ],
   credentials: true,
