@@ -15,6 +15,7 @@ const corsOptions = {
     'https://serve12bn8483.vercel.app',
     'https://welcomeat.vercel.app',
     'https://serve12bt90.netlify.app',
+    'https://note1serve.netlify.app',
   ],
   credentials: true,
 }
